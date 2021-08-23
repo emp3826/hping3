@@ -1,7 +1,3 @@
-/* Copyright (C) 2003 Salvatore Sanfilippo <antirez@invece.org>
- * $Id: apdutils.c,v 1.2 2003/09/01 00:22:06 antirez Exp $
- */
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
