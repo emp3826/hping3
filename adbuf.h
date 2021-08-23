@@ -1,11 +1,3 @@
-/* adbuf.h - header file for adbuf.c
- *
- * Copyright(C) 2001-2002 Salvatore Sanfilippo <antirez@invece.org>
- * All rights reserved.
- * See the LICENSE file for COPYRIGHT and PERMISSION notice */
-
-/* $Id: adbuf.h,v 1.1.1.1 2003/08/31 17:24:00 antirez Exp $ */
-
 #ifndef _ADBUF_H
 #define _ADBUF_H
 
