@@ -1,12 +1,3 @@
-/* Copyright (C) 2000,2001 Salvatore Sanfilippo <antirez@invece.org>
- * See the LICENSE file for more information.
- *
- * ARS Packet Description System.
- *
- * Please, prefix all the function with ars_d_ */
-
-/* $Id: apd.c,v 1.3 2003/09/07 11:21:18 antirez Exp $ */
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
