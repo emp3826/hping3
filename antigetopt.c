@@ -1,13 +1,3 @@
-/* antigetopt -- a getopt replacement
- * Copyright(C) 2001 Salvatore Sanfilippo <antirez@invece.org>
- * This software is released under the GPL license
- * see the COPYING file for more information */
-
-/* $Id: antigetopt.c,v 1.2 2003/09/01 00:22:06 antirez Exp $ */
-
-/* TODO:
- * argument list sanity check */
-
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
