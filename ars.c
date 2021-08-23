@@ -1,15 +1,3 @@
-/* Copyright (C) 2000,2001 Salvatore Sanfilippo <antirez@invece.org>
- * See the LICENSE file for more information.
- * 
- * TODO:
- * o Functions to add addresses and timestamps for some IP and TCP option
- * o IGMP support
- * o DNS support
- * o ARS add_build_layer() facility and Co., read the PROPOSAL file.
- */
-
-/* $Id: ars.c,v 1.3 2004/04/14 12:30:18 antirez Exp $ */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
