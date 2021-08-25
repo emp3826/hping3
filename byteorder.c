@@ -8,16 +8,12 @@ echo successfully compiled
 exit
 #endif /* 0 */
 
-/* Coypright (C) 1999-2003 Salvatore Sanfilippo */
-
 /*
  * 0.1 first version
  * 0.2 add Strchr, so it's possibile remove string.h
  * 0.3 more portable thx to Pancrazio De Mauro 'TrantIT'!!!
  * 0.4 better debug output
  */
-
-/* $Id: byteorder.c,v 1.2 2003/09/01 00:22:06 antirez Exp $ */
 
 #include <stdio.h>
 
