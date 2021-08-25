@@ -1,15 +1,3 @@
-/* 
- * $smu-mark$ 
- * $name: binding.c$ 
- * $author: Salvatore Sanfilippo <antirez@invece.org>$ 
- * $copyright: Copyright (C) 1999 by Salvatore Sanfilippo$ 
- * $license: This software is under GPL version 2 of license$ 
- * $date: Fri Nov  5 11:55:46 MET 1999$ 
- * $rev: 11$ 
- */ 
-
-/* $Id: binding.c,v 1.2 2003/09/01 00:15:22 antirez Exp $ */
-
 #include <stdio.h>
 #include <time.h>
 #include <signal.h>
