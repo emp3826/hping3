@@ -1,9 +1,3 @@
-/* Original code from the Linux C library */
-/* Copyright (C) 2000,2001 Salvatore Sanfilippo <antirez@invece.org>
- * This code is under the original GNU C library license (GPL) */
-
-/* $Id: bytesex.h,v 1.1.1.1 2003/08/31 17:23:48 antirez Exp $ */
-
 #ifndef ARS_BYTESEX_H
 #define ARS_BYTESEX_H
 
