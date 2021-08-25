@@ -1,7 +1,3 @@
-/* Glue between hping and the ars engine */
-
-/* $Id: arsglue.c,v 1.2 2003/09/01 00:22:06 antirez Exp $ */
-
 #include <stdlib.h>
 #include <stdio.h>
 #include "ars.h"
