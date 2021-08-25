@@ -1,8 +1,3 @@
-/* Copyright (C) 2000,2001 Salvatore Sanfilippo <antirez@invece.org>
- * See the LICENSE file for more information. */
-
-/* $Id: ars.h,v 1.4 2004/06/04 07:22:38 antirez Exp $ */
-
 #ifndef _ARS_H
 #define _ARS_H
 
